@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Moura</h1>
-<h3 align="center">A passionate Android Developer from Brazil</h3>
+<h3 align="center">Android Developer from Brazil</h3>
 
 - 🔭 I’m currently working on [PicPay](https://play.google.com/store/apps/details?id=com.picpay)
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pdimoura@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pdimoura/](https://www.linkedin.com/in/pdimoura/)
+- 📄 Learn more about my experiences at [https://www.linkedin.com/in/pdimoura/](https://www.linkedin.com/in/pdimoura/)
 
 - ⚡ Fun fact **I am a musician: drum, piano, bass, electric guitar, etc**
 
