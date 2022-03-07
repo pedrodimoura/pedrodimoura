@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Moura</h1>
 <h3 align="center">Android Developer from Brazil</h3>
 
-- 🔭 I’m currently working on [PicPay](https://play.google.com/store/apps/details?id=com.picpay)
+- 🔭 I’m currently working on [SumUp](https://play.google.com/store/apps/details?id=com.kaching.merchant)
 
 - 💬 Ask me about **Android, Material Design and Flutter**
 
