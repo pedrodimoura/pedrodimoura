@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! I am a skilled Android Developer from Brazil based in Berlin with a passion for creating mobile apps that are both aesthetically pleasing and functional.
 
-Currently, I am working on exciting projects at SumUp, honing my expertise in Android development as an Android Developer.
+Currently, I am working on exciting projects at SumUp, honing my expertise in Android development.
 
 My language expertise includes Kotlin and Java, and I am currently expanding my knowledge base by learning Golang.
 
