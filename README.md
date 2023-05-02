@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I am a skilled Android Developer from Brazil with a passion for creating mobile apps that are both aesthetically pleasing and functional.
+Welcome to my GitHub profile! I am a skilled Android Developer from Brazil based in Berlin with a passion for creating mobile apps that are both aesthetically pleasing and functional.
 
 Currently, I am working on exciting projects at SumUp, honing my expertise in Android development as an Android Developer.
 
